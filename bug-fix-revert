@@ -1,0 +1,9 @@
+curl https://api.github.com/repos/Bekzat-Cod/simple-interest-calculator/pulls
+
+{
+  "head": {
+    "repo": {
+      "full_name": "Bekzat-Cod/simple-interest-calculator"
+    }
+  }
+}
